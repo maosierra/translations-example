@@ -8,7 +8,7 @@
     "fallbackToGoogle": true
   },
   "translations": {
-    "Dashboard": "Panel de Control!!!!!",
+    "Dashboard": "Panel de Control con texto especial desde archivo",
     "Data Stream": "Flujo de Datos",
     "Agent": "Agente",
     "Recommendation": "Recomendación",
