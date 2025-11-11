@@ -2,89 +2,530 @@
   "metadata": {
     "language": "pt",
     "languageName": "Portuguese",
-    "version": "0.01",
-    "lastUpdated": "2025-11-06T10:00:00Z",
-    "author": "BHP Team",
-    "description": "Portuguese translation file based on HTML element IDs"
+    "version": "0.03",
+    "lastUpdated": "2025-11-11T10:00:00Z",
+    "appPageName": "Test Page v0.03",
+    "totalTranslations": 64,
+    "description": "Portuguese translation file for BHP Translator v0.03 test page"
   },
-  "translations": {
-    "dashboard-title": "Painel de Controle",
-    "welcome-message": "Bem-vindo ao Sistema",
-    "btn-save": "Salvar",
-    "btn-cancel": "Cancelar",
-    "btn-delete": "Excluir",
-    "btn-edit": "Editar",
-    "btn-create": "Criar",
-    "btn-search": "Buscar",
-    "btn-filter": "Filtrar",
-    "btn-export": "Exportar",
-    "btn-import": "Importar",
-    "search-placeholder": "Buscar tudo",
-    "user-profile-name": "Nome de Usuário",
-    "user-profile-role": "Administrador",
-    "menu-home": "Início",
-    "menu-dashboard": "Painel",
-    "menu-settings": "Configurações",
-    "menu-help": "Ajuda",
-    "menu-logout": "Sair",
-    "notification-title": "Notificações",
-    "status-active": "Ativo",
-    "status-inactive": "Inativo",
-    "label-username": "Nome de Usuário",
-    "label-password": "Senha",
-    "label-email": "E-mail",
-    "label-phone": "Telefone",
-    "label-address": "Endereço",
-    "label-city": "Cidade",
-    "label-country": "País",
-    "label-date": "Data",
-    "label-time": "Hora",
-    "label-status": "Status",
-    "label-type": "Tipo",
-    "label-category": "Categoria",
-    "label-description": "Descrição",
-    "label-notes": "Notas",
-    "table-header-id": "ID",
-    "table-header-name": "Nome",
-    "table-header-status": "Status",
-    "table-header-date": "Data",
-    "table-header-actions": "Ações",
-    "msg-loading": "Carregando...",
-    "msg-success": "Operação bem-sucedida",
-    "msg-error": "Erro na operação",
-    "msg-warning": "Aviso",
-    "msg-confirm": "Confirmar ação?",
-    "msg-no-data": "Nenhum dado disponível",
-    "msg-invalid-input": "Entrada inválida",
-    "footer-copyright": "© 2025 BHP. Todos os direitos reservados",
-    "footer-version": "Versão 0.01",
-    "topbar-settings": "Configurações",
-    "topbar-help": "Ajuda",
-    "topbar-notifications": "Notificações",
-    "topbar-profile": "Perfil",
-    "searchBox": "Buscar tudo",
-    "section-cards": "Cartões de Informação",
-    "card-title-1": "Total de Usuários",
-    "card-description-1": "Usuários ativos no sistema",
-    "card-title-2": "Receita",
-    "card-description-2": "Receita total este mês",
-    "card-title-3": "Pedidos",
-    "card-description-3": "Pedidos pendentes para processar",
-    "section-iframes": "Teste de Tradução Cross-iframe",
-    "iframe-profile-title": "Perfil de Usuário",
-    "iframe-profile-name-label": "Nome:",
-    "iframe-profile-email-label": "E-mail:",
-    "iframe-profile-role-label": "Função:",
-    "iframe-profile-role": "Gerente",
-    "iframe-profile-status-label": "Status:",
-    "iframe-profile-status": "Ativo",
-    "iframe-profile-settings": "Configurações da Conta",
-    "iframe-btn-edit-profile": "Editar Perfil",
-    "iframe-btn-change-password": "Alterar Senha",
-    "iframe-stats-title": "Painel de Estatísticas",
-    "iframe-stat-visitors": "Total de Visitantes",
-    "iframe-stat-sales": "Vendas Totais",
-    "iframe-stat-conversion": "Taxa de Conversão",
-    "iframe-stat-avg-order": "Valor Médio do Pedido"
-  }
+  "translations": [
+    {
+      "id": "welcome-message",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Welcome to the System",
+      "translatedText": "Bem-vindo ao Sistema"
+    },
+    {
+      "id": "welcome-description",
+      "component": "Text",
+      "field": "text",
+      "originalText": "This is a test page to demonstrate the BHP Translator v0.03 functionality with the new JSON array format.",
+      "translatedText": "Esta é uma página de teste para demonstrar a funcionalidade do Tradutor BHP v0.03 com o novo formato JSON de array."
+    },
+    {
+      "id": "section-buttons",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Action Buttons",
+      "translatedText": "Botões de Ação"
+    },
+    {
+      "id": "btn-save",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Save",
+      "translatedText": "Salvar"
+    },
+    {
+      "id": "btn-cancel",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Cancel",
+      "translatedText": "Cancelar"
+    },
+    {
+      "id": "btn-delete",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Delete",
+      "translatedText": "Excluir"
+    },
+    {
+      "id": "btn-edit",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Edit",
+      "translatedText": "Editar"
+    },
+    {
+      "id": "btn-create",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Create",
+      "translatedText": "Criar"
+    },
+    {
+      "id": "btn-search",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Search",
+      "translatedText": "Buscar"
+    },
+    {
+      "id": "btn-filter",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Filter",
+      "translatedText": "Filtrar"
+    },
+    {
+      "id": "btn-export",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Export",
+      "translatedText": "Exportar"
+    },
+    {
+      "id": "btn-import",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Import",
+      "translatedText": "Importar"
+    },
+    {
+      "id": "section-user-info",
+      "component": "Text",
+      "field": "text",
+      "originalText": "User Information",
+      "translatedText": "Informação do Usuário"
+    },
+    {
+      "id": "user-profile-name",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Username",
+      "translatedText": "Nome de Usuário"
+    },
+    {
+      "id": "user-profile-role-label",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Role:",
+      "translatedText": "Função:"
+    },
+    {
+      "id": "user-profile-role",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Administrator",
+      "translatedText": "Administrador"
+    },
+    {
+      "id": "user-profile-status-label",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Status:",
+      "translatedText": "Status:"
+    },
+    {
+      "id": "status-active",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Active",
+      "translatedText": "Ativo"
+    },
+    {
+      "id": "section-form",
+      "component": "Text",
+      "field": "text",
+      "originalText": "User Form",
+      "translatedText": "Formulário de Usuário"
+    },
+    {
+      "id": "label-username",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Username",
+      "translatedText": "Nome de Usuário"
+    },
+    {
+      "id": "input-username",
+      "component": "Input",
+      "field": "placeholder",
+      "originalText": "Enter username",
+      "translatedText": "Digite o nome de usuário"
+    },
+    {
+      "id": "label-password",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Password",
+      "translatedText": "Senha"
+    },
+    {
+      "id": "input-password",
+      "component": "Input",
+      "field": "placeholder",
+      "originalText": "Enter password",
+      "translatedText": "Digite a senha"
+    },
+    {
+      "id": "label-email",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Email",
+      "translatedText": "E-mail"
+    },
+    {
+      "id": "input-email",
+      "component": "Input",
+      "field": "placeholder",
+      "originalText": "Enter email",
+      "translatedText": "Digite o e-mail"
+    },
+    {
+      "id": "label-description",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Description",
+      "translatedText": "Descrição"
+    },
+    {
+      "id": "input-description",
+      "component": "Input",
+      "field": "placeholder",
+      "originalText": "Enter description",
+      "translatedText": "Digite a descrição"
+    },
+    {
+      "id": "section-table",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Data Table",
+      "translatedText": "Tabela de Dados"
+    },
+    {
+      "id": "table-header-id",
+      "component": "TableHeader",
+      "field": "text",
+      "originalText": "ID",
+      "translatedText": "ID"
+    },
+    {
+      "id": "table-header-name",
+      "component": "TableHeader",
+      "field": "text",
+      "originalText": "Name",
+      "translatedText": "Nome"
+    },
+    {
+      "id": "table-header-status",
+      "component": "TableHeader",
+      "field": "text",
+      "originalText": "Status",
+      "translatedText": "Status"
+    },
+    {
+      "id": "table-header-date",
+      "component": "TableHeader",
+      "field": "text",
+      "originalText": "Date",
+      "translatedText": "Data"
+    },
+    {
+      "id": "table-header-actions",
+      "component": "TableHeader",
+      "field": "text",
+      "originalText": "Actions",
+      "translatedText": "Ações"
+    },
+    {
+      "id": "status-active-row1",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Active",
+      "translatedText": "Ativo"
+    },
+    {
+      "id": "btn-edit-row1",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Edit",
+      "translatedText": "Editar"
+    },
+    {
+      "id": "status-inactive",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Inactive",
+      "translatedText": "Inativo"
+    },
+    {
+      "id": "btn-edit-row2",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Edit",
+      "translatedText": "Editar"
+    },
+    {
+      "id": "section-messages",
+      "component": "Text",
+      "field": "text",
+      "originalText": "System Messages",
+      "translatedText": "Mensagens do Sistema"
+    },
+    {
+      "id": "msg-loading",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Loading...",
+      "translatedText": "Carregando..."
+    },
+    {
+      "id": "msg-success",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Operation successful",
+      "translatedText": "Operação bem-sucedida"
+    },
+    {
+      "id": "msg-error",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Operation error",
+      "translatedText": "Erro na operação"
+    },
+    {
+      "id": "msg-warning",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Warning",
+      "translatedText": "Aviso"
+    },
+    {
+      "id": "msg-no-data",
+      "component": "Text",
+      "field": "text",
+      "originalText": "No data available",
+      "translatedText": "Nenhum dado disponível"
+    },
+    {
+      "id": "section-search",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Search Box",
+      "translatedText": "Caixa de Pesquisa"
+    },
+    {
+      "id": "searchBox",
+      "component": "Input",
+      "field": "placeholder",
+      "originalText": "Search all",
+      "translatedText": "Buscar tudo"
+    },
+    {
+      "id": "section-cards",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Information Cards",
+      "translatedText": "Cartões de Informação"
+    },
+    {
+      "id": "card-title-1",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Total Users",
+      "translatedText": "Total de Usuários"
+    },
+    {
+      "id": "card-value-1",
+      "component": "Text",
+      "field": "text",
+      "originalText": "1,234",
+      "translatedText": "1.234"
+    },
+    {
+      "id": "card-description-1",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Active users in the system",
+      "translatedText": "Usuários ativos no sistema"
+    },
+    {
+      "id": "card-title-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Revenue",
+      "translatedText": "Receita"
+    },
+    {
+      "id": "card-value-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "$45,678",
+      "translatedText": "R$45.678"
+    },
+    {
+      "id": "card-description-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Total revenue this month",
+      "translatedText": "Receita total este mês"
+    },
+    {
+      "id": "card-title-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Orders",
+      "translatedText": "Pedidos"
+    },
+    {
+      "id": "card-value-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "567",
+      "translatedText": "567"
+    },
+    {
+      "id": "card-description-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Pending orders to process",
+      "translatedText": "Pedidos pendentes para processar"
+    },
+    {
+      "id": "section-iframes",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Cross-iframe Translation Test",
+      "translatedText": "Teste de Tradução Cross-iframe"
+    },
+    {
+      "id": "iframe-description",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Content inside iframes will be translated automatically if they have IDs and are same-origin accessible.",
+      "translatedText": "O conteúdo dentro de iframes será traduzido automaticamente se tiverem IDs e forem acessíveis da mesma origem."
+    },
+    {
+      "id": "iframe-profile-title",
+      "component": "Text",
+      "field": "text",
+      "originalText": "User Profile",
+      "translatedText": "Perfil de Usuário"
+    },
+    {
+      "id": "iframe-profile-name-label",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Name:",
+      "translatedText": "Nome:"
+    },
+    {
+      "id": "iframe-profile-email-label",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Email:",
+      "translatedText": "E-mail:"
+    },
+    {
+      "id": "iframe-profile-role-label",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Role:",
+      "translatedText": "Função:"
+    },
+    {
+      "id": "iframe-profile-role",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Manager",
+      "translatedText": "Gerente"
+    },
+    {
+      "id": "iframe-profile-status-label",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Status:",
+      "translatedText": "Status:"
+    },
+    {
+      "id": "iframe-profile-status",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Active",
+      "translatedText": "Ativo"
+    },
+    {
+      "id": "iframe-profile-settings",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Account Settings",
+      "translatedText": "Configurações da Conta"
+    },
+    {
+      "id": "iframe-btn-edit-profile",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Edit Profile",
+      "translatedText": "Editar Perfil"
+    },
+    {
+      "id": "iframe-btn-change-password",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Change Password",
+      "translatedText": "Alterar Senha"
+    },
+    {
+      "id": "iframe-stats-title",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Statistics Dashboard",
+      "translatedText": "Painel de Estatísticas"
+    },
+    {
+      "id": "iframe-stat-visitors",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Total Visitors",
+      "translatedText": "Total de Visitantes"
+    },
+    {
+      "id": "iframe-stat-sales",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Total Sales",
+      "translatedText": "Vendas Totais"
+    },
+    {
+      "id": "iframe-stat-conversion",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Conversion Rate",
+      "translatedText": "Taxa de Conversão"
+    },
+    {
+      "id": "iframe-stat-avg-order",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Average Order Value",
+      "translatedText": "Valor Médio do Pedido"
+    },
+    {
+      "id": "footer-copyright",
+      "component": "Text",
+      "field": "text",
+      "originalText": "© 2025 BHP. All rights reserved",
+      "translatedText": "© 2025 BHP. Todos os direitos reservados"
+    },
+    {
+      "id": "footer-version",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Version 0.03",
+      "translatedText": "Versão 0.03"
+    }
+  ]
 }

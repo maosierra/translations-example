@@ -1,0 +1,692 @@
+{
+  "metadata": {
+    "language": "es",
+    "languageName": "Spanish",
+    "version": "1.0",
+    "lastUpdated": "2025-11-11T05:46:42.330Z",
+    "appPageName": "1. Data Stream Access",
+    "totalTranslations": 97,
+    "description": "Translation file for XMPro AppPage: 1. Data Stream Access"
+  },
+  "translations": [
+    {
+      "id": "inj4rb",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Only Company Administrators can access this application",
+      "translatedText": ""
+    },
+    {
+      "id": "ivek2o",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Data Streams Access of:",
+      "translatedText": ""
+    },
+    {
+      "id": "iz34f4",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Close",
+      "translatedText": ""
+    },
+    {
+      "id": "i2xypv",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Data Streams Access of:",
+      "translatedText": ""
+    },
+    {
+      "id": "i4lf24",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Close",
+      "translatedText": ""
+    },
+    {
+      "id": "iazf8",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Data Streams - User Access Management",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs5f",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Recommendations",
+      "translatedText": ""
+    },
+    {
+      "id": "ixf2cu",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Applications",
+      "translatedText": ""
+    },
+    {
+      "id": "idrth",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Data Streams",
+      "translatedText": ""
+    },
+    {
+      "id": "i6bbj",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Change Log",
+      "translatedText": ""
+    },
+    {
+      "id": "i7t1z",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Filter:",
+      "translatedText": ""
+    },
+    {
+      "id": "iv3cr",
+      "component": "Radio Buttons",
+      "field": "items[0].name",
+      "originalText": "Unassigned",
+      "translatedText": ""
+    },
+    {
+      "id": "iv3cr",
+      "component": "Radio Buttons",
+      "field": "items[1].name",
+      "originalText": "Assigned",
+      "translatedText": ""
+    },
+    {
+      "id": "iv3cr",
+      "component": "Radio Buttons",
+      "field": "items[2].name",
+      "originalText": "All",
+      "translatedText": ""
+    },
+    {
+      "id": "i6sfnb",
+      "component": "Text",
+      "field": "text",
+      "originalText": "User List",
+      "translatedText": ""
+    },
+    {
+      "id": "itumvq",
+      "component": "CheckBox",
+      "field": "text",
+      "originalText": "Filter by Functional Role",
+      "translatedText": ""
+    },
+    {
+      "id": "igyy2x",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Functional Role",
+      "translatedText": ""
+    },
+    {
+      "id": "iaoxs",
+      "component": "Grid",
+      "field": "column[0].Caption",
+      "originalText": "Full Name",
+      "translatedText": ""
+    },
+    {
+      "id": "iaoxs",
+      "component": "Grid",
+      "field": "column[2].Caption",
+      "originalText": "Email",
+      "translatedText": ""
+    },
+    {
+      "id": "iaoxs",
+      "component": "Grid",
+      "field": "column[3].Caption",
+      "originalText": "Business Role",
+      "translatedText": ""
+    },
+    {
+      "id": "i9g8nl",
+      "component": "Grid",
+      "field": "column[0].Caption",
+      "originalText": "Full Name",
+      "translatedText": ""
+    },
+    {
+      "id": "i9g8nl",
+      "component": "Grid",
+      "field": "column[2].Caption",
+      "originalText": "Email",
+      "translatedText": ""
+    },
+    {
+      "id": "i9g8nl",
+      "component": "Grid",
+      "field": "column[6].Caption",
+      "originalText": "Functional Role",
+      "translatedText": ""
+    },
+    {
+      "id": "ijmlb",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Manage Single User Access",
+      "translatedText": ""
+    },
+    {
+      "id": "ilyz7t",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Manage Single Funtional Role Access",
+      "translatedText": ""
+    },
+    {
+      "id": "imk5k",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Manage Multiple User Access",
+      "translatedText": ""
+    },
+    {
+      "id": "icv291",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Manage Multiple Functional Role Access",
+      "translatedText": ""
+    },
+    {
+      "id": "iv0vuj",
+      "component": "RadioButtons",
+      "field": "items[0].name",
+      "originalText": "User",
+      "translatedText": ""
+    },
+    {
+      "id": "iv0vuj",
+      "component": "RadioButtons",
+      "field": "items[1].name",
+      "originalText": "Functional Role",
+      "translatedText": ""
+    },
+    {
+      "id": "ilct7f",
+      "component": "Radio Buttons",
+      "field": "items[0].name",
+      "originalText": "Single",
+      "translatedText": ""
+    },
+    {
+      "id": "ilct7f",
+      "component": "Radio Buttons",
+      "field": "items[1].name",
+      "originalText": "Multiple",
+      "translatedText": ""
+    },
+    {
+      "id": "iimstb",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Selected User",
+      "translatedText": ""
+    },
+    {
+      "id": "iogugl",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Selected Functional Role",
+      "translatedText": ""
+    },
+    {
+      "id": "imh6v2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Selected User(s)",
+      "translatedText": ""
+    },
+    {
+      "id": "imhg2v",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Selected Functional Role(s)",
+      "translatedText": ""
+    },
+    {
+      "id": "ie71o7",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Category",
+      "translatedText": ""
+    },
+    {
+      "id": "i51j9j",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Data Stream",
+      "translatedText": ""
+    },
+    {
+      "id": "ieidp",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Co-Owner",
+      "translatedText": ""
+    },
+    {
+      "id": "i47z4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Write",
+      "translatedText": ""
+    },
+    {
+      "id": "iqzly",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Read",
+      "translatedText": ""
+    },
+    {
+      "id": "iyqaz",
+      "component": "Text",
+      "field": "text",
+      "originalText": "No Access",
+      "translatedText": ""
+    },
+    {
+      "id": "iiw5tf",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Group Header Text",
+      "translatedText": ""
+    },
+    {
+      "id": "i9gz0n",
+      "component": "Radio Buttons",
+      "field": "items[0].name",
+      "originalText": "No Access",
+      "translatedText": ""
+    },
+    {
+      "id": "i9gz0n",
+      "component": "Radio Buttons",
+      "field": "items[1].name",
+      "originalText": "Read",
+      "translatedText": ""
+    },
+    {
+      "id": "i9gz0n",
+      "component": "Radio Buttons",
+      "field": "items[2].name",
+      "originalText": "Write",
+      "translatedText": ""
+    },
+    {
+      "id": "i9gz0n",
+      "component": "Radio Buttons",
+      "field": "items[3].name",
+      "originalText": "Co-Owner",
+      "translatedText": ""
+    },
+    {
+      "id": "ioj66j",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Owner",
+      "translatedText": ""
+    },
+    {
+      "id": "ifodq2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Group Header Text",
+      "translatedText": ""
+    },
+    {
+      "id": "izabvi",
+      "component": "Radio Buttons",
+      "field": "items[0].name",
+      "originalText": "No Access",
+      "translatedText": ""
+    },
+    {
+      "id": "izabvi",
+      "component": "Radio Buttons",
+      "field": "items[1].name",
+      "originalText": "Read",
+      "translatedText": ""
+    },
+    {
+      "id": "izabvi",
+      "component": "Radio Buttons",
+      "field": "items[2].name",
+      "originalText": "Write",
+      "translatedText": ""
+    },
+    {
+      "id": "izabvi",
+      "component": "Radio Buttons",
+      "field": "items[3].name",
+      "originalText": "Co-Owner",
+      "translatedText": ""
+    },
+    {
+      "id": "inr3a3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Owner",
+      "translatedText": ""
+    },
+    {
+      "id": "itltki",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Group Header Text",
+      "translatedText": ""
+    },
+    {
+      "id": "i4h1xd",
+      "component": "Radio Buttons",
+      "field": "items[0].name",
+      "originalText": "No Access",
+      "translatedText": ""
+    },
+    {
+      "id": "i4h1xd",
+      "component": "Radio Buttons",
+      "field": "items[1].name",
+      "originalText": "Read",
+      "translatedText": ""
+    },
+    {
+      "id": "i4h1xd",
+      "component": "Radio Buttons",
+      "field": "items[2].name",
+      "originalText": "Write",
+      "translatedText": ""
+    },
+    {
+      "id": "i4h1xd",
+      "component": "Radio Buttons",
+      "field": "items[3].name",
+      "originalText": "Co-Owner",
+      "translatedText": ""
+    },
+    {
+      "id": "iibskg",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Group Header Text",
+      "translatedText": ""
+    },
+    {
+      "id": "ixxfan",
+      "component": "Radio Buttons",
+      "field": "items[0].name",
+      "originalText": "No Access",
+      "translatedText": ""
+    },
+    {
+      "id": "ixxfan",
+      "component": "Radio Buttons",
+      "field": "items[1].name",
+      "originalText": "Read",
+      "translatedText": ""
+    },
+    {
+      "id": "ixxfan",
+      "component": "Radio Buttons",
+      "field": "items[2].name",
+      "originalText": "Write",
+      "translatedText": ""
+    },
+    {
+      "id": "ixxfan",
+      "component": "Radio Buttons",
+      "field": "items[3].name",
+      "originalText": "Co-Owner",
+      "translatedText": ""
+    },
+    {
+      "id": "ivudyd",
+      "component": "Check Box",
+      "field": "text",
+      "originalText": "Notify users of change.",
+      "translatedText": ""
+    },
+    {
+      "id": "i3iaaa",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Bulk Update Access",
+      "translatedText": ""
+    },
+    {
+      "id": "i5d4rx",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Bulk Update Access",
+      "translatedText": ""
+    },
+    {
+      "id": "ik32db",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Update Access",
+      "translatedText": ""
+    },
+    {
+      "id": "iuz90q",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Update Access",
+      "translatedText": ""
+    },
+    {
+      "id": "i0xq6j",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Reset",
+      "translatedText": ""
+    },
+    {
+      "id": "i6p5d",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Copy Access",
+      "translatedText": ""
+    },
+    {
+      "id": "ino9d8",
+      "component": "RadioButtons",
+      "field": "items[0].name",
+      "originalText": "User",
+      "translatedText": ""
+    },
+    {
+      "id": "ino9d8",
+      "component": "RadioButtons",
+      "field": "items[1].name",
+      "originalText": "Functional Role",
+      "translatedText": ""
+    },
+    {
+      "id": "ijvnv",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Copy Access From",
+      "translatedText": ""
+    },
+    {
+      "id": "i8shx4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Copy Access From",
+      "translatedText": ""
+    },
+    {
+      "id": "iymkpe",
+      "component": "Text",
+      "field": "text",
+      "originalText": "View selected user access. Click",
+      "translatedText": ""
+    },
+    {
+      "id": "ip4qbp",
+      "component": "Text",
+      "field": "text",
+      "originalText": "here.",
+      "translatedText": ""
+    },
+    {
+      "id": "i9bmlw",
+      "component": "Text",
+      "field": "text",
+      "originalText": "View selected functional role access. Click",
+      "translatedText": ""
+    },
+    {
+      "id": "ij1337",
+      "component": "Text",
+      "field": "text",
+      "originalText": "here.",
+      "translatedText": ""
+    },
+    {
+      "id": "ixly7",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Paste Access To",
+      "translatedText": ""
+    },
+    {
+      "id": "i0xd6p",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Paste Access To",
+      "translatedText": ""
+    },
+    {
+      "id": "imye4",
+      "component": "Check Box",
+      "field": "text",
+      "originalText": "Notify users of change.",
+      "translatedText": ""
+    },
+    {
+      "id": "ihr0rg",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Copy Access",
+      "translatedText": ""
+    },
+    {
+      "id": "ixhrnj",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Reset",
+      "translatedText": ""
+    },
+    {
+      "id": "iyopaz",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Copy Access",
+      "translatedText": ""
+    },
+    {
+      "id": "i6regi",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Reset",
+      "translatedText": ""
+    },
+    {
+      "id": "ihysy",
+      "component": "Text",
+      "field": "text",
+      "originalText": "View Access",
+      "translatedText": ""
+    },
+    {
+      "id": "iohrwe",
+      "component": "RadioButtons",
+      "field": "items[0].name",
+      "originalText": "User",
+      "translatedText": ""
+    },
+    {
+      "id": "iohrwe",
+      "component": "RadioButtons",
+      "field": "items[1].name",
+      "originalText": "Functional Role",
+      "translatedText": ""
+    },
+    {
+      "id": "iujqh",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Selected User",
+      "translatedText": ""
+    },
+    {
+      "id": "irp2yd",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Selected Functional Role",
+      "translatedText": ""
+    },
+    {
+      "id": "igdfd7",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Permission Filter",
+      "translatedText": ""
+    },
+    {
+      "id": "ih2n8t",
+      "component": "Select Box",
+      "field": "items[0].name",
+      "originalText": "No Access",
+      "translatedText": ""
+    },
+    {
+      "id": "ih2n8t",
+      "component": "Select Box",
+      "field": "items[1].name",
+      "originalText": "Read",
+      "translatedText": ""
+    },
+    {
+      "id": "ih2n8t",
+      "component": "Select Box",
+      "field": "items[2].name",
+      "originalText": "Write",
+      "translatedText": ""
+    },
+    {
+      "id": "ih2n8t",
+      "component": "Select Box",
+      "field": "items[3].name",
+      "originalText": "Owner",
+      "translatedText": ""
+    },
+    {
+      "id": "ih2n8t",
+      "component": "Select Box",
+      "field": "items[4].name",
+      "originalText": "Co-Owner",
+      "translatedText": ""
+    },
+    {
+      "id": "ih2n8t",
+      "component": "Select Box",
+      "field": "items[5].name",
+      "originalText": "All",
+      "translatedText": ""
+    }
+  ]
+}
