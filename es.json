@@ -531,8 +531,8 @@
       "id": "i0403",
       "component": "Text",
       "field": "text",
-      "originalText": "Seleccionar Sitio",
-      "translatedText": "Select Site"
+      "originalText": "",
+      "translatedText": "Seleccionar Sitio"
     }
   ]
 }
