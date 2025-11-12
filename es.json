@@ -526,6 +526,13 @@
       "field": "text",
       "originalText": "Version 0.03",
       "translatedText": "Versión 0.03"
+    },
+    {
+      "id": "i0403",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Seleccionar Sitio",
+      "translatedText": "Select Site"
     }
   ]
 }
