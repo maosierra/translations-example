@@ -1,0 +1,2199 @@
+{
+  "metadata": {
+    "language": "es",
+    "languageName": "Spanish",
+    "version": "1.0",
+    "lastUpdated": "2025-11-18T21:48:50.408Z",
+    "appPageName": "PdM Alert Detail",
+    "totalTranslations": 312,
+    "completedTranslations": 0,
+    "pendingTranslations": 312,
+    "description": "Translation file for XMPro AppPage: PdM Alert Detail"
+  },
+  "translations": [
+    {
+      "id": "idrgx9",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Create SAP Notification",
+      "translatedText": "Crear Notificación SAP"
+    },
+    {
+      "id": "iy9r98",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Technical Object Id",
+      "translatedText": "ID de Objeto Técnico"
+    },
+    {
+      "id": "ibkiah",
+      "component": "Textbox",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": "Grupo de Validación Predeterminado"
+    },
+    {
+      "id": "i3ljmo",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Functional Location",
+      "translatedText": "Ubicación Funcional"
+    },
+    {
+      "id": "ify2tw",
+      "component": "Textbox",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "i0cl3r",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Planning Plant",
+      "translatedText": "Planta de Planificación"
+    },
+    {
+      "id": "ivnr0l",
+      "component": "Textbox",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "iuoxms",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification Id",
+      "translatedText": "ID de Notificación"
+    },
+    {
+      "id": "il4xlh",
+      "component": "Textbox",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "igx9wb",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification Text",
+      "translatedText": "Texto de Notificación"
+    },
+    {
+      "id": "i8pgac",
+      "component": "Textbox",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "ivw7f3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Priority",
+      "translatedText": "Prioridad"
+    },
+    {
+      "id": "iawfge",
+      "component": "SelectBox",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "itzx5j",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Required End Date",
+      "translatedText": "Fecha de Finalización Requerida"
+    },
+    {
+      "id": "ii98ef",
+      "component": "DateSelector",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "iw1tvf",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Damage Code Group",
+      "translatedText": "Grupo de Código de Daño"
+    },
+    {
+      "id": "inp1uw",
+      "component": "DropdownGrid",
+      "field": "column[0].Caption",
+      "originalText": "Damage Code Group",
+      "translatedText": ""
+    },
+    {
+      "id": "inp1uw",
+      "component": "DropdownGrid",
+      "field": "column[1].Caption",
+      "originalText": "Description",
+      "translatedText": "Descripción"
+    },
+    {
+      "id": "ivajor",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Damage Code",
+      "translatedText": "Código de Daño"
+    },
+    {
+      "id": "iw2zpa",
+      "component": "DropdownGrid",
+      "field": "column[0].Caption",
+      "originalText": "Damage Code",
+      "translatedText": ""
+    },
+    {
+      "id": "iw2zpa",
+      "component": "DropdownGrid",
+      "field": "column[1].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "i11gvm",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Damage Code Text",
+      "translatedText": "Texto de Código de Daño"
+    },
+    {
+      "id": "i0t8t2",
+      "component": "Textbox",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "iaqtof",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Cause Code Group",
+      "translatedText": "Grupo de Código de Causa"
+    },
+    {
+      "id": "ir993g",
+      "component": "DropdownGrid",
+      "field": "column[0].Caption",
+      "originalText": "Cause Code Group",
+      "translatedText": ""
+    },
+    {
+      "id": "ir993g",
+      "component": "DropdownGrid",
+      "field": "column[1].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "innjd2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Cause Code",
+      "translatedText": "Código de Causa"
+    },
+    {
+      "id": "iqwz01",
+      "component": "DropdownGrid",
+      "field": "column[0].Caption",
+      "originalText": "Cause Code",
+      "translatedText": ""
+    },
+    {
+      "id": "iqwz01",
+      "component": "DropdownGrid",
+      "field": "column[1].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "itaowr",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Cause Code Text",
+      "translatedText": "Texto de Código de Causa"
+    },
+    {
+      "id": "id9z1l",
+      "component": "Textbox",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "ifudv3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification Long Text",
+      "translatedText": "Texto Largo de Notificación"
+    },
+    {
+      "id": "ijoiyb",
+      "component": "TextArea",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "it0zqs",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Create",
+      "translatedText": "Crear"
+    },
+    {
+      "id": "ibrn4i",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Cancel",
+      "translatedText": "Cancelar"
+    },
+    {
+      "id": "i3lgjs",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Please provide the Notification Long Text",
+      "translatedText": "Por favor, proporcione el texto largo de la notificación"
+    },
+    {
+      "id": "i6wg1e",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Please provide the Required End Date",
+      "translatedText": "Por favor, proporcione la fecha de finalización requerida"
+    },
+    {
+      "id": "ivhz2l",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Please provide the Notification Text",
+      "translatedText": "Por favor, proporcione el texto de la notificación"
+    },
+    {
+      "id": "i0qn57",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Please provide the Priority",
+      "translatedText": "Por favor, proporcione la prioridad"
+    },
+    {
+      "id": "itqzh",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Link Existing SAP Notification",
+      "translatedText": "Vincular Notificación SAP Existente"
+    },
+    {
+      "id": "iz43wx",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification ID",
+      "translatedText": "ID de Notificación"
+    },
+    {
+      "id": "i43gdk",
+      "component": "DropdownGrid",
+      "field": "column[0].Caption",
+      "originalText": "Notification Id",
+      "translatedText": ""
+    },
+    {
+      "id": "i43gdk",
+      "component": "DropdownGrid",
+      "field": "column[1].Caption",
+      "originalText": "Notification Text",
+      "translatedText": ""
+    },
+    {
+      "id": "i43gdk",
+      "component": "DropdownGrid",
+      "field": "column[2].Caption",
+      "originalText": "Creation Date",
+      "translatedText": ""
+    },
+    {
+      "id": "i43gdk",
+      "component": "DropdownGrid",
+      "field": "column[3].Caption",
+      "originalText": "Notification Status",
+      "translatedText": ""
+    },
+    {
+      "id": "i43gdk",
+      "component": "DropdownGrid",
+      "field": "column[4].Caption",
+      "originalText": "Work Order",
+      "translatedText": ""
+    },
+    {
+      "id": "i43gdk",
+      "component": "DropdownGrid",
+      "field": "column[5].Caption",
+      "originalText": "Created By",
+      "translatedText": "Creado Por"
+    },
+    {
+      "id": "i43gdk",
+      "component": "DropdownGrid",
+      "field": "column[6].Caption",
+      "originalText": "Planning Plant Name",
+      "translatedText": "Nombre de Planta de Planificación"
+    },
+    {
+      "id": "i43gdk",
+      "component": "DropdownGrid",
+      "field": "column[7].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "i43gdk",
+      "component": "DropdownGrid",
+      "field": "column[8].Caption",
+      "originalText": "Required End Date",
+      "translatedText": "Fecha de Finalización Requerida"
+    },
+    {
+      "id": "idq9us",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "irg5jt",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Planner Group",
+      "translatedText": "Grupo de Planificadores"
+    },
+    {
+      "id": "ix4sux",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Planning Plant",
+      "translatedText": ""
+    },
+    {
+      "id": "ij2rjj",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Work Center",
+      "translatedText": "Centro de Trabajo"
+    },
+    {
+      "id": "ihx0s8",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Work Center Plant",
+      "translatedText": "Planta de Centro de Trabajo"
+    },
+    {
+      "id": "iy4dtr",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Technical Object",
+      "translatedText": "Objeto Técnico"
+    },
+    {
+      "id": "igrsai",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Technical Object Label",
+      "translatedText": "Etiqueta de Objeto Técnico"
+    },
+    {
+      "id": "ia3cgq",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification Text",
+      "translatedText": ""
+    },
+    {
+      "id": "ibjfsf",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification Long Text",
+      "translatedText": ""
+    },
+    {
+      "id": "i18wlf",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Link",
+      "translatedText": "Vincular"
+    },
+    {
+      "id": "i7u3m5",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Cancel",
+      "translatedText": ""
+    },
+    {
+      "id": "i03j6q",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Unlink SAP Notification",
+      "translatedText": "Desvincular Notificación SAP"
+    },
+    {
+      "id": "iphjsm",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert ID",
+      "translatedText": "ID de Alerta"
+    },
+    {
+      "id": "i2tmga",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification ID",
+      "translatedText": ""
+    },
+    {
+      "id": "i7rr2y",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Required End Date",
+      "translatedText": ""
+    },
+    {
+      "id": "iwqe11",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification Text",
+      "translatedText": ""
+    },
+    {
+      "id": "ii7lrz",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Unlink",
+      "translatedText": "Desvincular"
+    },
+    {
+      "id": "iy8jrf",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Cancel",
+      "translatedText": ""
+    },
+    {
+      "id": "iszg1t",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Complete Alert",
+      "translatedText": "Completar Alerta"
+    },
+    {
+      "id": "iysz8g",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Resolution Category",
+      "translatedText": ""
+    },
+    {
+      "id": "ib17m8",
+      "component": "SelectBox",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "i51km3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Resolution Type",
+      "translatedText": ""
+    },
+    {
+      "id": "iz90h3",
+      "component": "SelectBox",
+      "field": "items[0].name",
+      "originalText": "Pending",
+      "translatedText": ""
+    },
+    {
+      "id": "iz90h3",
+      "component": "SelectBox",
+      "field": "items[1].name",
+      "originalText": "In Progress",
+      "translatedText": ""
+    },
+    {
+      "id": "iz90h3",
+      "component": "SelectBox",
+      "field": "items[2].name",
+      "originalText": "Completed",
+      "translatedText": ""
+    },
+    {
+      "id": "i4dekj",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Value Delivered",
+      "translatedText": ""
+    },
+    {
+      "id": "i2ks5b",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Downtime Hours",
+      "translatedText": ""
+    },
+    {
+      "id": "i51oov",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Resolution Details",
+      "translatedText": ""
+    },
+    {
+      "id": "it6hz2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "⚠️ Please fill all fields",
+      "translatedText": ""
+    },
+    {
+      "id": "ija6en",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Complete Alert",
+      "translatedText": ""
+    },
+    {
+      "id": "ieloge",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Cancel",
+      "translatedText": ""
+    },
+    {
+      "id": "i8ntqb",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Unlink Selected Alerts",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Alert ID",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Alert Type",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "SAP Notification Status",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "SAP WO",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "SAP WO Status",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[9].Caption",
+      "originalText": "CreatedTime",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[61].Caption",
+      "originalText": "AnalysisDatetime",
+      "translatedText": ""
+    },
+    {
+      "id": "i3yhbs",
+      "component": "DataGrid",
+      "field": "column[62].Caption",
+      "originalText": "AssignedToUsername",
+      "translatedText": ""
+    },
+    {
+      "id": "i2hou",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Link Selected Alerts",
+      "translatedText": ""
+    },
+    {
+      "id": "i35ynl",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "i35ynl",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Alert ID",
+      "translatedText": ""
+    },
+    {
+      "id": "i35ynl",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "i35ynl",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Alert Type",
+      "translatedText": ""
+    },
+    {
+      "id": "i35ynl",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "i35ynl",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    },
+    {
+      "id": "i35ynl",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "SAP Notification Status",
+      "translatedText": ""
+    },
+    {
+      "id": "i35ynl",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "SAP WO",
+      "translatedText": ""
+    },
+    {
+      "id": "i35ynl",
+      "component": "DataGrid",
+      "field": "column[9].Caption",
+      "originalText": "SAP WO Status",
+      "translatedText": ""
+    },
+    {
+      "id": "i35ynl",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "Created Date",
+      "translatedText": ""
+    },
+    {
+      "id": "id999i",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Cancel",
+      "translatedText": ""
+    },
+    {
+      "id": "iwwj1e",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Save",
+      "translatedText": ""
+    },
+    {
+      "id": "iazf8",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert",
+      "translatedText": ""
+    },
+    {
+      "id": "iujwv",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Workbench",
+      "translatedText": ""
+    },
+    {
+      "id": "i8v1g",
+      "component": "Text",
+      "field": "text",
+      "originalText": ">",
+      "translatedText": ""
+    },
+    {
+      "id": "ij0tfj",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Complete Alert",
+      "translatedText": ""
+    },
+    {
+      "id": "ibqktj",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Create SAP Notifications",
+      "translatedText": ""
+    },
+    {
+      "id": "i8dsuj",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Link SAP Notifications",
+      "translatedText": ""
+    },
+    {
+      "id": "i7koiy",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Unlink SAP Notification",
+      "translatedText": ""
+    },
+    {
+      "id": "iur8m1",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Link Alerts",
+      "translatedText": ""
+    },
+    {
+      "id": "ieai8j",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Assign Alert",
+      "translatedText": ""
+    },
+    {
+      "id": "irdqf",
+      "component": "Tabs",
+      "field": "tabitem[0].name",
+      "originalText": "Alert Details",
+      "translatedText": ""
+    },
+    {
+      "id": "irdqf",
+      "component": "Tabs",
+      "field": "tabitem[1].name",
+      "originalText": "Linked Alerts",
+      "translatedText": ""
+    },
+    {
+      "id": "irdqf",
+      "component": "Tabs",
+      "field": "tabitem[2].name",
+      "originalText": "SAP Notifications",
+      "translatedText": ""
+    },
+    {
+      "id": "irdqf",
+      "component": "Tabs",
+      "field": "tabitem[3].name",
+      "originalText": "Delays",
+      "translatedText": ""
+    },
+    {
+      "id": "irdqf",
+      "component": "Tabs",
+      "field": "tabitem[4].name",
+      "originalText": "Alarm Events",
+      "translatedText": ""
+    },
+    {
+      "id": "irdqf",
+      "component": "Tabs",
+      "field": "tabitem[5].name",
+      "originalText": "Timeseries",
+      "translatedText": ""
+    },
+    {
+      "id": "irdqf",
+      "component": "Tabs",
+      "field": "tabitem[6].name",
+      "originalText": "Fluid Analysis",
+      "translatedText": ""
+    },
+    {
+      "id": "ikaai",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Evaluation",
+      "translatedText": ""
+    },
+    {
+      "id": "ioyo2t",
+      "component": "Text",
+      "field": "text",
+      "originalText": "New",
+      "translatedText": ""
+    },
+    {
+      "id": "ijz348",
+      "component": "Text",
+      "field": "text",
+      "originalText": "In Progress",
+      "translatedText": ""
+    },
+    {
+      "id": "i4wrq5",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Closed",
+      "translatedText": ""
+    },
+    {
+      "id": "in6idn",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Normal",
+      "translatedText": ""
+    },
+    {
+      "id": "ivvepq",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Low",
+      "translatedText": ""
+    },
+    {
+      "id": "iqwmb1",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Medium",
+      "translatedText": ""
+    },
+    {
+      "id": "iib10l",
+      "component": "Text",
+      "field": "text",
+      "originalText": "High",
+      "translatedText": ""
+    },
+    {
+      "id": "iqbf71",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Unspecified",
+      "translatedText": ""
+    },
+    {
+      "id": "ijdkp",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Assigned Evaluator",
+      "translatedText": ""
+    },
+    {
+      "id": "irz4oy",
+      "component": "Text",
+      "field": "text",
+      "originalText": "SAP Notification Number",
+      "translatedText": ""
+    },
+    {
+      "id": "irspih",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Completed Evaluator",
+      "translatedText": ""
+    },
+    {
+      "id": "ik1ggk",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Value Delivered",
+      "translatedText": ""
+    },
+    {
+      "id": "ivhbw8",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Downtime Hours",
+      "translatedText": ""
+    },
+    {
+      "id": "ixh9vo",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Resolution Category",
+      "translatedText": ""
+    },
+    {
+      "id": "i9c1fi",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Resolution Details",
+      "translatedText": ""
+    },
+    {
+      "id": "iz3b1r",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert Completed Date",
+      "translatedText": ""
+    },
+    {
+      "id": "iknsd3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Model Fault Code",
+      "translatedText": ""
+    },
+    {
+      "id": "iqx63l",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Model Severity",
+      "translatedText": ""
+    },
+    {
+      "id": "i3bimp",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Evaluator Fault Code",
+      "translatedText": ""
+    },
+    {
+      "id": "iup6xl",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Evaluator Severity",
+      "translatedText": ""
+    },
+    {
+      "id": "i78j2i",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Save",
+      "translatedText": ""
+    },
+    {
+      "id": "i3k5uh",
+      "component": "Text",
+      "field": "text",
+      "originalText": "The Create SAP Notification and Link SAP Notification is disabled due to the invalid Functional Location. Please select a valid Functional Location below, and click Save.",
+      "translatedText": ""
+    },
+    {
+      "id": "i1v4dt",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Functional Location",
+      "translatedText": ""
+    },
+    {
+      "id": "iwuz92",
+      "component": "DropdownGrid",
+      "field": "column[1].Caption",
+      "originalText": "Functional Location",
+      "translatedText": ""
+    },
+    {
+      "id": "iwuz92",
+      "component": "DropdownGrid",
+      "field": "column[2].Caption",
+      "originalText": "Equipment",
+      "translatedText": ""
+    },
+    {
+      "id": "iwuz92",
+      "component": "DropdownGrid",
+      "field": "column[5].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "itj86p",
+      "component": "CheckBox",
+      "field": "text",
+      "originalText": "Edit",
+      "translatedText": ""
+    },
+    {
+      "id": "ig4zrb",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Save",
+      "translatedText": ""
+    },
+    {
+      "id": "il35m",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Alert Metadata",
+      "translatedText": ""
+    },
+    {
+      "id": "idzd0b",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "i4onyj",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Model",
+      "translatedText": ""
+    },
+    {
+      "id": "ij221i",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Equipment ID",
+      "translatedText": ""
+    },
+    {
+      "id": "ijdvta",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert Creation Date",
+      "translatedText": ""
+    },
+    {
+      "id": "ifvprc",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Pdm Model Name",
+      "translatedText": ""
+    },
+    {
+      "id": "iuntid",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification Required By Date",
+      "translatedText": ""
+    },
+    {
+      "id": "i7ypa2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification Created Date",
+      "translatedText": ""
+    },
+    {
+      "id": "i7dehk",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "SAP Notification Headers",
+      "translatedText": ""
+    },
+    {
+      "id": "i7fy75",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Notification Headline",
+      "translatedText": ""
+    },
+    {
+      "id": "ig6mft",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Notification Long Text",
+      "translatedText": ""
+    },
+    {
+      "id": "iluymg",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Save",
+      "translatedText": ""
+    },
+    {
+      "id": "iiw8bf",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Triage Instructions",
+      "translatedText": ""
+    },
+    {
+      "id": "iiq8hz",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Comments",
+      "translatedText": ""
+    },
+    {
+      "id": "iyecqf",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Content",
+      "translatedText": ""
+    },
+    {
+      "id": "iyecqf",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Author",
+      "translatedText": ""
+    },
+    {
+      "id": "iyecqf",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Date",
+      "translatedText": ""
+    },
+    {
+      "id": "ies3yf",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Add New Comments",
+      "translatedText": ""
+    },
+    {
+      "id": "i5kazu",
+      "component": "CheckBox",
+      "field": "text",
+      "originalText": "Send Email",
+      "translatedText": ""
+    },
+    {
+      "id": "ixnh6f",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Subject",
+      "translatedText": ""
+    },
+    {
+      "id": "iul50o",
+      "component": "Textbox",
+      "field": "text",
+      "originalText": "Default Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "i6kmef",
+      "component": "Label",
+      "field": "text",
+      "originalText": "To",
+      "translatedText": ""
+    },
+    {
+      "id": "ip105k",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Importance",
+      "translatedText": ""
+    },
+    {
+      "id": "ianbgw",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Save",
+      "translatedText": ""
+    },
+    {
+      "id": "iigxnb",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Cancel",
+      "translatedText": ""
+    },
+    {
+      "id": "ijiknz",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Add New Comment",
+      "translatedText": ""
+    },
+    {
+      "id": "i2m0x4",
+      "component": "CheckBox",
+      "field": "text",
+      "originalText": "Send Email",
+      "translatedText": ""
+    },
+    {
+      "id": "i6wucx",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Subject",
+      "translatedText": ""
+    },
+    {
+      "id": "i6f3zf",
+      "component": "Label",
+      "field": "text",
+      "originalText": "To",
+      "translatedText": ""
+    },
+    {
+      "id": "inhybp",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Importance",
+      "translatedText": ""
+    },
+    {
+      "id": "iv8yng",
+      "component": "TextArea",
+      "field": "text",
+      "originalText": "Comments Validation Group",
+      "translatedText": ""
+    },
+    {
+      "id": "ifdvof",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Add",
+      "translatedText": ""
+    },
+    {
+      "id": "if4m0i",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Other Open Alerts for this Asset",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Model",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Alert ID",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Alert Type",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "Headline",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "Created Date",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[11].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[12].Caption",
+      "originalText": "SAP Notification Status",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "SAP WO",
+      "translatedText": ""
+    },
+    {
+      "id": "ibff1k",
+      "component": "DataGrid",
+      "field": "column[15].Caption",
+      "originalText": "SAP WO Status",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Work Center",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Alert ID",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Headline",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Alert Type",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Notification Status",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "Created Time",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[9].Caption",
+      "originalText": "SAP WO",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "WO Status",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[63].Caption",
+      "originalText": "ACF50RequiredEndDate",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[64].Caption",
+      "originalText": "ACF60ResolutionCategory",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[65].Caption",
+      "originalText": "ACF70ValueDerived",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[66].Caption",
+      "originalText": "ACF80DowntimeHours",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[67].Caption",
+      "originalText": "ACF90L5FunctionalLocation",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[68].Caption",
+      "originalText": "ACF100L7FunctionalLocation",
+      "translatedText": ""
+    },
+    {
+      "id": "i1kdjj",
+      "component": "DataGrid",
+      "field": "column[69].Caption",
+      "originalText": "CharactersLeft",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Planning Plant",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Equipment",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Notification ID",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Notification Description",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Notification Reported By",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "Creation Date",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Notification Status",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "Work Order",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[9].Caption",
+      "originalText": "Headline",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "WO Created By",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[11].Caption",
+      "originalText": "WO Basic Start Date",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[15].Caption",
+      "originalText": "WO Status",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[16].Caption",
+      "originalText": "WO Type",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Business Entity",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Business Operation",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Delay Cause",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Delay Classification",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Delay Comment",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[17].Caption",
+      "originalText": "Downtime Duration",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[19].Caption",
+      "originalText": "Downtime Start",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[20].Caption",
+      "originalText": "Downtime End",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[39].Caption",
+      "originalText": "Lost Tonnes",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Event Code",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Event Description",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Event State",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Event Type",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Event Start Time",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "Event End Time",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Alarm Duration",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "Severity",
+      "translatedText": ""
+    },
+    {
+      "id": "i6259p",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Compartment Element History",
+      "translatedText": ""
+    },
+    {
+      "id": "iksmq7",
+      "component": "RadioButtons",
+      "field": "items[0].name",
+      "originalText": "Elements",
+      "translatedText": ""
+    },
+    {
+      "id": "iksmq7",
+      "component": "RadioButtons",
+      "field": "items[1].name",
+      "originalText": "Diagnoses",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Sample ID",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Sample Datetime",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "FE",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "CU",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "CR",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "NI",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "SN",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "PB",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "AL",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[9].Caption",
+      "originalText": "SI",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "NA",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[11].Caption",
+      "originalText": "K",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[12].Caption",
+      "originalText": "PQI",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[13].Caption",
+      "originalText": "V40",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "ST%",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[15].Caption",
+      "originalText": "SOOT_ABS",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[16].Caption",
+      "originalText": "FUEL_DENSITY",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[17].Caption",
+      "originalText": "V100",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[18].Caption",
+      "originalText": "OXI",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[19].Caption",
+      "originalText": "NIT",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[20].Caption",
+      "originalText": "CA",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[21].Caption",
+      "originalText": "ZN",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[22].Caption",
+      "originalText": "MG",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[23].Caption",
+      "originalText": "MO",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[24].Caption",
+      "originalText": "B",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[25].Caption",
+      "originalText": "P",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[26].Caption",
+      "originalText": "LI",
+      "translatedText": ""
+    },
+    {
+      "id": "iai57s",
+      "component": "DataGrid",
+      "field": "column[27].Caption",
+      "originalText": "TI",
+      "translatedText": ""
+    },
+    {
+      "id": "igat8g",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Sample ID",
+      "translatedText": ""
+    },
+    {
+      "id": "igat8g",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Sample Datetime",
+      "translatedText": ""
+    },
+    {
+      "id": "igat8g",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "DIAGNOSIS",
+      "translatedText": ""
+    },
+    {
+      "id": "i78e2n",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Elements History",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Sample Id",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Severity",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Sample Datetime",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "FE",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "CU",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "CR",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "NI",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "SN",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[9].Caption",
+      "originalText": "PB",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "AL",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[11].Caption",
+      "originalText": "SI",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[12].Caption",
+      "originalText": "NA",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[13].Caption",
+      "originalText": "K",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "PQI",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[15].Caption",
+      "originalText": "V40",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[16].Caption",
+      "originalText": "SOOTPCT",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[17].Caption",
+      "originalText": "SOOTABS",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[18].Caption",
+      "originalText": "FUEL_DENSITY",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[19].Caption",
+      "originalText": "V100",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[20].Caption",
+      "originalText": "OXI",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[21].Caption",
+      "originalText": "NIT",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[22].Caption",
+      "originalText": "CA",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[23].Caption",
+      "originalText": "ZN",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[24].Caption",
+      "originalText": "MG",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[25].Caption",
+      "originalText": "MO",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[26].Caption",
+      "originalText": "B",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[27].Caption",
+      "originalText": "CD",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[28].Caption",
+      "originalText": "F",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[29].Caption",
+      "originalText": "BA",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[30].Caption",
+      "originalText": "AG",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6ju8",
+      "component": "DataGrid",
+      "field": "column[54].Caption",
+      "originalText": "AWEAR",
+      "translatedText": ""
+    }
+  ]
+}

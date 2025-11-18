@@ -1,0 +1,414 @@
+{
+  "metadata": {
+    "language": "es",
+    "languageName": "Spanish",
+    "version": "1.0",
+    "lastUpdated": "2025-11-18T21:48:49.914Z",
+    "appPageName": "FilterAlertView",
+    "totalTranslations": 57,
+    "completedTranslations": 0,
+    "pendingTranslations": 57,
+    "description": "Translation file for XMPro AppPage: FilterAlertView"
+  },
+  "translations": [
+    {
+      "id": "iazf8-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Filtered Alert View",
+      "translatedText": "Vista de Alertas Filtradas"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Priority",
+      "translatedText": "Prioridad"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Alert Id",
+      "translatedText": "ID de Alerta"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "Component",
+      "translatedText": "Componente"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[16].Caption",
+      "originalText": "Description",
+      "translatedText": "Descripción"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[19].Caption",
+      "originalText": "Created Time",
+      "translatedText": "Hora de Creación"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[27].Caption",
+      "originalText": "Functional Location",
+      "translatedText": "Ubicación Funcional"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[42].Caption",
+      "originalText": "Notification ID",
+      "translatedText": "ID de Notificación"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[50].Caption",
+      "originalText": "Status",
+      "translatedText": "Estado"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[51].Caption",
+      "originalText": "Notification Status",
+      "translatedText": "Estado de Notificación"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[57].Caption",
+      "originalText": "Model",
+      "translatedText": "Modelo"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[58].Caption",
+      "originalText": "Level5FunctionalLocationId",
+      "translatedText": "IDUbicaciónFuncionalNivel5"
+    },
+    {
+      "id": "i8hrf",
+      "component": "DataGrid",
+      "field": "column[59].Caption",
+      "originalText": "WorkCenter",
+      "translatedText": "Centro de Trabajo"
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Alert Id",
+      "translatedText": ""
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Alert Type",
+      "translatedText": "Tipo de Alerta"
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Assigned To",
+      "translatedText": "Asignado a"
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Created Date",
+      "translatedText": "Fecha de Creación"
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "Equipment",
+      "translatedText": "Equipo"
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "Model",
+      "translatedText": ""
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[26].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[29].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": "Notificación SAP"
+    },
+    {
+      "id": "i2e03",
+      "component": "DataGrid",
+      "field": "column[33].Caption",
+      "originalText": "Site",
+      "translatedText": "Sitio"
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Alert Id",
+      "translatedText": ""
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Alert Type",
+      "translatedText": ""
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Assigned To",
+      "translatedText": ""
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Created Date",
+      "translatedText": ""
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "Equipment",
+      "translatedText": ""
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "Model",
+      "translatedText": ""
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[26].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[29].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    },
+    {
+      "id": "i6ftd",
+      "component": "DataGrid",
+      "field": "column[33].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Alert Id",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Alert Type",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Assigned To",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Created Date",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "Equipment",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "Model",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[26].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[29].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    },
+    {
+      "id": "iym2o",
+      "component": "DataGrid",
+      "field": "column[33].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Alert Id",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Alert Type",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Assigned To",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Created Date",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "Equipment",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "Model",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[26].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[29].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    },
+    {
+      "id": "ia63c",
+      "component": "DataGrid",
+      "field": "column[33].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    }
+  ]
+}

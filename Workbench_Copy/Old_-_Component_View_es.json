@@ -1,0 +1,575 @@
+{
+  "metadata": {
+    "language": "es",
+    "languageName": "Spanish",
+    "version": "1.0",
+    "lastUpdated": "2025-11-18T21:48:50.306Z",
+    "appPageName": "Old - Component View",
+    "totalTranslations": 80,
+    "completedTranslations": 0,
+    "pendingTranslations": 80,
+    "description": "Translation file for XMPro AppPage: Old - Component View"
+  },
+  "translations": [
+    {
+      "id": "iazf8",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Component 1",
+      "translatedText": "Componente 1"
+    },
+    {
+      "id": "ijd8h",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Overview",
+      "translatedText": "Resumen"
+    },
+    {
+      "id": "im7y86",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Create Alert",
+      "translatedText": "Crear Alerta"
+    },
+    {
+      "id": "i6lj9u",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Workbench",
+      "translatedText": "Banco de Trabajo"
+    },
+    {
+      "id": "i49big",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Fluid Analysis",
+      "translatedText": "Análisis de Fluidos"
+    },
+    {
+      "id": "ijg0eb",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Health Summary",
+      "translatedText": "Resumen de Estado"
+    },
+    {
+      "id": "ifs585",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Equipment Details",
+      "translatedText": "Detalles del Equipo"
+    },
+    {
+      "id": "ied75t",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Apply Filter",
+      "translatedText": "Aplicar Filtro"
+    },
+    {
+      "id": "iwmym8",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Component:",
+      "translatedText": "Componente:"
+    },
+    {
+      "id": "ijaodf",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Equipment:",
+      "translatedText": "Equipo:"
+    },
+    {
+      "id": "iv4bwf",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Model:",
+      "translatedText": "Modelo:"
+    },
+    {
+      "id": "ip4naj",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Site:",
+      "translatedText": "Sitio:"
+    },
+    {
+      "id": "izhnrq",
+      "component": "Tabs",
+      "field": "tabitem[0].name",
+      "originalText": "Equipment Details",
+      "translatedText": ""
+    },
+    {
+      "id": "izhnrq",
+      "component": "Tabs",
+      "field": "tabitem[1].name",
+      "originalText": "SAP Notifications",
+      "translatedText": "Notificaciones SAP"
+    },
+    {
+      "id": "izhnrq",
+      "component": "Tabs",
+      "field": "tabitem[2].name",
+      "originalText": "Delays",
+      "translatedText": "Retrasos"
+    },
+    {
+      "id": "izhnrq",
+      "component": "Tabs",
+      "field": "tabitem[3].name",
+      "originalText": "Alarm Events",
+      "translatedText": "Eventos de Alarma"
+    },
+    {
+      "id": "izhnrq",
+      "component": "Tabs",
+      "field": "tabitem[4].name",
+      "originalText": "Time series",
+      "translatedText": "Series temporales"
+    },
+    {
+      "id": "ixfgx",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Metrics for Last 30 Days",
+      "translatedText": "Métricas de los Últimos 30 Días"
+    },
+    {
+      "id": "i3jf5l",
+      "component": "Text",
+      "field": "text",
+      "originalText": "High Priority Alerts",
+      "translatedText": "Alertas de Alta Prioridad"
+    },
+    {
+      "id": "i3jf5l-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "New Alerts",
+      "translatedText": "Nuevas Alertas"
+    },
+    {
+      "id": "i3jf5l-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alerts with No WO",
+      "translatedText": "Alertas sin OT"
+    },
+    {
+      "id": "i3jf5l-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alerts with Open WO",
+      "translatedText": "Alertas con OT Abierta"
+    },
+    {
+      "id": "i3jf5l-5",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. Alert to WR",
+      "translatedText": "Prom. Alerta a SR"
+    },
+    {
+      "id": "ippclv",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": ""
+    },
+    {
+      "id": "i3jf5l-5-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. WR to WO",
+      "translatedText": ""
+    },
+    {
+      "id": "ippclv-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": ""
+    },
+    {
+      "id": "i3jf5l-5-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. WO to Complete",
+      "translatedText": ""
+    },
+    {
+      "id": "ippclv-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": ""
+    },
+    {
+      "id": "i3jf5l-5-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. Alert Closure Time",
+      "translatedText": ""
+    },
+    {
+      "id": "ippclv-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": ""
+    },
+    {
+      "id": "iaba7i",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Component 30 Days View",
+      "translatedText": ""
+    },
+    {
+      "id": "ijxvs4",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "ijxvs4",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "WorkCenter",
+      "translatedText": ""
+    },
+    {
+      "id": "ijxvs4",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Alert ID",
+      "translatedText": ""
+    },
+    {
+      "id": "ijxvs4",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "ijxvs4",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "Status",
+      "translatedText": ""
+    },
+    {
+      "id": "ijxvs4",
+      "component": "DataGrid",
+      "field": "column[24].Caption",
+      "originalText": "Created Time",
+      "translatedText": ""
+    },
+    {
+      "id": "ijxvs4",
+      "component": "DataGrid",
+      "field": "column[25].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "ijxvs4",
+      "component": "DataGrid",
+      "field": "column[47].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    },
+    {
+      "id": "iamwpg",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Component Live Heat Map",
+      "translatedText": ""
+    },
+    {
+      "id": "imfkfh",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "imfkfh",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Notification ID",
+      "translatedText": ""
+    },
+    {
+      "id": "imfkfh",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Notification Text",
+      "translatedText": ""
+    },
+    {
+      "id": "imfkfh",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Creation Date",
+      "translatedText": ""
+    },
+    {
+      "id": "imfkfh",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Status",
+      "translatedText": ""
+    },
+    {
+      "id": "imfkfh",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Work Order",
+      "translatedText": ""
+    },
+    {
+      "id": "imfkfh",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "Work Order Type",
+      "translatedText": ""
+    },
+    {
+      "id": "imfkfh",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "ReporterFullName",
+      "translatedText": ""
+    },
+    {
+      "id": "imfkfh",
+      "component": "DataGrid",
+      "field": "column[24].Caption",
+      "originalText": "LastChangeTime",
+      "translatedText": ""
+    },
+    {
+      "id": "imfkfh",
+      "component": "DataGrid",
+      "field": "column[81].Caption",
+      "originalText": "Notification Type",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Equipment",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Notification Id",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Notification Description",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Notification Reported By",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Creation Date",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "Notification Status",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Work Order",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[9].Caption",
+      "originalText": "WO Created By",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "WO Basic Start Date",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "WO Status",
+      "translatedText": ""
+    },
+    {
+      "id": "iuvw23",
+      "component": "DataGrid",
+      "field": "column[15].Caption",
+      "originalText": "WO Type",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Business Entity",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Business Operation",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Delay Cause Name",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Delay Classification",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Delay Comment",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[17].Caption",
+      "originalText": "Downtime Duration",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[19].Caption",
+      "originalText": "Downtime Start",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[20].Caption",
+      "originalText": "Downtown End",
+      "translatedText": ""
+    },
+    {
+      "id": "iqs1tt",
+      "component": "DataGrid",
+      "field": "column[39].Caption",
+      "originalText": "Lost Tonnes",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Event Code",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Event Description",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Event State",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Event Type",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Event Start Time",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "Event End Time",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Alarm Duration",
+      "translatedText": ""
+    },
+    {
+      "id": "ivzmbe",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "Severity",
+      "translatedText": ""
+    }
+  ]
+}

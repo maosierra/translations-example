@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "language": "es",
+    "languageName": "Spanish",
+    "version": "1.0",
+    "lastUpdated": "2025-11-18T21:48:49.613Z",
+    "appPageName": "Alerts Health",
+    "totalTranslations": 49,
+    "completedTranslations": 0,
+    "pendingTranslations": 49,
+    "description": "Translation file for XMPro AppPage: Alerts Health"
+  },
+  "translations": [
+    {
+      "id": "iazf8",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert Health",
+      "translatedText": "Salud de Alertas"
+    },
+    {
+      "id": "iujwv",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Personal Inbox View",
+      "translatedText": "Vista de Bandeja Personal"
+    },
+    {
+      "id": "i8v1g",
+      "component": "Text",
+      "field": "text",
+      "originalText": ">",
+      "translatedText": ">"
+    },
+    {
+      "id": "ics0c",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert Health",
+      "translatedText": "Salud de Alertas"
+    },
+    {
+      "id": "i5yh6",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Last updated:",
+      "translatedText": "Última actualización:"
+    },
+    {
+      "id": "i9hf1f",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Mine Location:",
+      "translatedText": "Ubicación de Mina:"
+    },
+    {
+      "id": "i9nwpe",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Equipment Type:",
+      "translatedText": "Tipo de Equipo:"
+    },
+    {
+      "id": "ikx18q",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Time Period:",
+      "translatedText": "Periodo de Tiempo:"
+    },
+    {
+      "id": "ibehqr",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert Severity:",
+      "translatedText": "Severidad de Alerta:"
+    },
+    {
+      "id": "ipvsfo",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Apply Filter",
+      "translatedText": "Aplicar Filtro"
+    },
+    {
+      "id": "i1x9x9",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert Status Overview",
+      "translatedText": "Resumen de Estado de Alertas"
+    },
+    {
+      "id": "i5jo1e",
+      "component": "Text",
+      "field": "text",
+      "originalText": "7",
+      "translatedText": "7"
+    },
+    {
+      "id": "iuuj78",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Critical Alerts",
+      "translatedText": "Alertas Críticas"
+    },
+    {
+      "id": "ix7rt9",
+      "component": "Text",
+      "field": "text",
+      "originalText": "12",
+      "translatedText": "12"
+    },
+    {
+      "id": "iqizpk",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Warning Alerts",
+      "translatedText": "Alertas de Advertencia"
+    },
+    {
+      "id": "iiv1qh",
+      "component": "Text",
+      "field": "text",
+      "originalText": "23",
+      "translatedText": "23"
+    },
+    {
+      "id": "isfcdh",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Resolved Today",
+      "translatedText": "Resueltas Hoy"
+    },
+    {
+      "id": "ixfgx",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Metrics for Last 30 Days",
+      "translatedText": "Métricas de los Últimos 30 Días"
+    },
+    {
+      "id": "i3jf5l",
+      "component": "Text",
+      "field": "text",
+      "originalText": "High Priority Alerts",
+      "translatedText": "Alertas de Alta Prioridad"
+    },
+    {
+      "id": "imfyge",
+      "component": "Text",
+      "field": "text",
+      "originalText": "1",
+      "translatedText": "1"
+    },
+    {
+      "id": "iconkj",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+2",
+      "translatedText": "+2"
+    },
+    {
+      "id": "i3jf5l-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "New Alerts",
+      "translatedText": "Nuevas Alertas"
+    },
+    {
+      "id": "imfyge-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "8",
+      "translatedText": "8"
+    },
+    {
+      "id": "iconkj-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+24",
+      "translatedText": "+24"
+    },
+    {
+      "id": "i3jf5l-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alerts with No WO",
+      "translatedText": "Alertas sin OT"
+    },
+    {
+      "id": "imfyge-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "12",
+      "translatedText": "12"
+    },
+    {
+      "id": "iconkj-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+4",
+      "translatedText": "+4"
+    },
+    {
+      "id": "i3jf5l-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alerts with Open WO",
+      "translatedText": "Alertas con OT Abierta"
+    },
+    {
+      "id": "imfyge-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "17",
+      "translatedText": "17"
+    },
+    {
+      "id": "iconkj-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+4",
+      "translatedText": "+4"
+    },
+    {
+      "id": "i3jf5l-5",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. Alert to WR",
+      "translatedText": "Prom. Alerta a SR"
+    },
+    {
+      "id": "igiva5",
+      "component": "Text",
+      "field": "text",
+      "originalText": "23:00",
+      "translatedText": "23:00"
+    },
+    {
+      "id": "ippclv",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": "hrs"
+    },
+    {
+      "id": "iconkj-5",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+24",
+      "translatedText": "+24"
+    },
+    {
+      "id": "i3jf5l-5-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. WR to WO",
+      "translatedText": "Prom. SR a OT"
+    },
+    {
+      "id": "igiva5-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "42:03",
+      "translatedText": "42:03"
+    },
+    {
+      "id": "ippclv-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": "hrs"
+    },
+    {
+      "id": "iconkj-5-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+13",
+      "translatedText": "+13"
+    },
+    {
+      "id": "i3jf5l-5-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. WO to COmplete",
+      "translatedText": "Prom. OT a Completar"
+    },
+    {
+      "id": "igiva5-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "38:59",
+      "translatedText": "38:59"
+    },
+    {
+      "id": "ippclv-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": "hrs"
+    },
+    {
+      "id": "iconkj-5-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+4",
+      "translatedText": "+4"
+    },
+    {
+      "id": "i3jf5l-5-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. Alert Closure Time",
+      "translatedText": "Prom. Tiempo de Cierre de Alerta"
+    },
+    {
+      "id": "igiva5-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "56:30",
+      "translatedText": "56:30"
+    },
+    {
+      "id": "ippclv-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": "hrs"
+    },
+    {
+      "id": "iconkj-5-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+24",
+      "translatedText": "+24"
+    },
+    {
+      "id": "id2wol",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Alerts by Equipment Type",
+      "translatedText": "Alertas por Tipo de Equipo"
+    },
+    {
+      "id": "iv8got",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Alert Trend Last 30 Days",
+      "translatedText": "Tendencia de Alertas Últimos 30 Días"
+    },
+    {
+      "id": "ipjvrw",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Alert response Time",
+      "translatedText": "Tiempo de Respuesta de Alerta"
+    }
+  ]
+}
