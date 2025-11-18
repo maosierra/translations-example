@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "language": "es",
+    "languageName": "Spanish",
+    "version": "1.0",
+    "lastUpdated": "2025-11-18T21:48:50.206Z",
+    "appPageName": "Landing Page",
+    "totalTranslations": 52,
+    "completedTranslations": 0,
+    "pendingTranslations": 52,
+    "description": "Translation file for XMPro AppPage: Landing Page"
+  },
+  "translations": [
+    {
+      "id": "iazf8",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Workbench",
+      "translatedText": "Banco de Trabajo"
+    },
+    {
+      "id": "i1yfz",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Equipment Details",
+      "translatedText": "Detalles del Equipo"
+    },
+    {
+      "id": "itljd",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Health Summary",
+      "translatedText": "Resumen de Estado"
+    },
+    {
+      "id": "i0403-2",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Site:",
+      "translatedText": "Sitio:"
+    },
+    {
+      "id": "i7vpe",
+      "component": "Label",
+      "field": "text",
+      "originalText": "Work Center:",
+      "translatedText": "Centro de Trabajo:"
+    },
+    {
+      "id": "ib19d",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Apply Filter",
+      "translatedText": "Aplicar Filtro"
+    },
+    {
+      "id": "ipbhf",
+      "component": "Tabs",
+      "field": "tabitem[0].name",
+      "originalText": "New / Open Alerts",
+      "translatedText": "Alertas Nuevas / Abiertas"
+    },
+    {
+      "id": "ipbhf",
+      "component": "Tabs",
+      "field": "tabitem[1].name",
+      "originalText": "Watch List",
+      "translatedText": "Lista de Seguimiento"
+    },
+    {
+      "id": "ipbhf",
+      "component": "Tabs",
+      "field": "tabitem[2].name",
+      "originalText": "Closed Alerts",
+      "translatedText": "Alertas Cerradas"
+    },
+    {
+      "id": "i9ab",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Site",
+      "translatedText": "Sitio"
+    },
+    {
+      "id": "i9ab",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Work Center",
+      "translatedText": "Centro de Trabajo"
+    },
+    {
+      "id": "i9ab",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Model",
+      "translatedText": "Modelo"
+    },
+    {
+      "id": "i9ab",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Equipment",
+      "translatedText": "Equipo"
+    },
+    {
+      "id": "i9ab",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Component",
+      "translatedText": "Componente"
+    },
+    {
+      "id": "i9ab",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Alert Id",
+      "translatedText": "ID de Alerta"
+    },
+    {
+      "id": "i9ab",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "Alert Type",
+      "translatedText": "Tipo de Alerta"
+    },
+    {
+      "id": "i9ab",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "Priority",
+      "translatedText": "Prioridad"
+    },
+    {
+      "id": "i9ab",
+      "component": "DataGrid",
+      "field": "column[11].Caption",
+      "originalText": "Headline",
+      "translatedText": "Titular"
+    },
+    {
+      "id": "i9ab",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "Created Time",
+      "translatedText": "Hora de Creación"
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Work Center",
+      "translatedText": ""
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Model",
+      "translatedText": ""
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Equipment",
+      "translatedText": ""
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Alert Id",
+      "translatedText": ""
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "Alert Type",
+      "translatedText": ""
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[9].Caption",
+      "originalText": "Headline",
+      "translatedText": ""
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[11].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": "Notificación SAP"
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[12].Caption",
+      "originalText": "Required End Date",
+      "translatedText": "Fecha de Finalización Requerida"
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "Created Time",
+      "translatedText": ""
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[24].Caption",
+      "originalText": "Assigned To",
+      "translatedText": "Asignado a"
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[39].Caption",
+      "originalText": "Work Order",
+      "translatedText": "Orden de Trabajo"
+    },
+    {
+      "id": "i2tcg",
+      "component": "DataGrid",
+      "field": "column[54].Caption",
+      "originalText": "Notification Status",
+      "translatedText": "Estado de Notificación"
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Work Center",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Model",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "Equipment",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "Alert Id",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "Alert Type",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[9].Caption",
+      "originalText": "Headline",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[13].Caption",
+      "originalText": "Created Time",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "Resolve Time",
+      "translatedText": "Hora de Resolución"
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[15].Caption",
+      "originalText": "Closed By",
+      "translatedText": "Cerrado Por"
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[45].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[46].Caption",
+      "originalText": "Work Order",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[47].Caption",
+      "originalText": "Notification Status",
+      "translatedText": ""
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[62].Caption",
+      "originalText": "Resolution Category",
+      "translatedText": "Categoría de Resolución"
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[63].Caption",
+      "originalText": "Value Derived",
+      "translatedText": "Valor Derivado"
+    },
+    {
+      "id": "izpy5",
+      "component": "DataGrid",
+      "field": "column[64].Caption",
+      "originalText": "Production Downtime Hours",
+      "translatedText": "Horas de Inactividad de Producción"
+    }
+  ]
+}

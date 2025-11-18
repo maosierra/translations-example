@@ -1,0 +1,617 @@
+{
+  "metadata": {
+    "language": "es",
+    "languageName": "Spanish",
+    "version": "1.0",
+    "lastUpdated": "2025-11-18T21:48:50.107Z",
+    "appPageName": "Health Summary",
+    "totalTranslations": 86,
+    "completedTranslations": 0,
+    "pendingTranslations": 86,
+    "description": "Translation file for XMPro AppPage: Health Summary"
+  },
+  "translations": [
+    {
+      "id": "iazf8",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Health Summary",
+      "translatedText": "Resumen de Estado"
+    },
+    {
+      "id": "i6lj9u",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Workbench",
+      "translatedText": "Banco de Trabajo"
+    },
+    {
+      "id": "ik1ksk",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Fluid Analysis",
+      "translatedText": "Análisis de Fluidos"
+    },
+    {
+      "id": "ijg0eb",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Health Summary",
+      "translatedText": ""
+    },
+    {
+      "id": "ifs585",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Equipment Details",
+      "translatedText": "Detalles del Equipo"
+    },
+    {
+      "id": "iw8phb",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Apply Filter",
+      "translatedText": "Aplicar Filtro"
+    },
+    {
+      "id": "ifpfkl",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Model:",
+      "translatedText": "Modelo:"
+    },
+    {
+      "id": "izw0we",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Site:",
+      "translatedText": "Sitio:"
+    },
+    {
+      "id": "i4uevq",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert - High",
+      "translatedText": "Alerta - Alta"
+    },
+    {
+      "id": "i4uevq-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert - Med",
+      "translatedText": "Alerta - Media"
+    },
+    {
+      "id": "i4uevq-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert - Low",
+      "translatedText": "Alerta - Baja"
+    },
+    {
+      "id": "i4uevq-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alert - Normal",
+      "translatedText": "Alerta - Normal"
+    },
+    {
+      "id": "izm0uy",
+      "component": "Text",
+      "field": "text",
+      "originalText": "No Alerts",
+      "translatedText": "Sin Alertas"
+    },
+    {
+      "id": "igcmuj",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Top 5 Equipment Alerts Generated",
+      "translatedText": "Top 5 Alertas de Equipos Generadas"
+    },
+    {
+      "id": "infg1q",
+      "component": "Text",
+      "field": "text",
+      "originalText": "1 DAY",
+      "translatedText": "1 DÍA"
+    },
+    {
+      "id": "ik16m5",
+      "component": "Text",
+      "field": "text",
+      "originalText": "7 DAYS",
+      "translatedText": "7 DÍAS"
+    },
+    {
+      "id": "iw6xw1",
+      "component": "Text",
+      "field": "text",
+      "originalText": "30 DAYS",
+      "translatedText": "30 DÍAS"
+    },
+    {
+      "id": "ifj31g",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Alert Age Status",
+      "translatedText": "Estado de Antigüedad de Alerta"
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "ACF10Status",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "ACF20Priority",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "ACF30NotificationStatus",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[3].Caption",
+      "originalText": "ACR40WOStatus",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[4].Caption",
+      "originalText": "ActionDescription",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[5].Caption",
+      "originalText": "AlertColor",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[6].Caption",
+      "originalText": "AlertDaysOpen",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[7].Caption",
+      "originalText": "AlertScore",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[8].Caption",
+      "originalText": "AlertStatus",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[9].Caption",
+      "originalText": "AlertType",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[10].Caption",
+      "originalText": "AlertUrl",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[11].Caption",
+      "originalText": "ArchivedForm",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[12].Caption",
+      "originalText": "AssetId",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[13].Caption",
+      "originalText": "AssignedTo",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[14].Caption",
+      "originalText": "AssignedToFullName",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[15].Caption",
+      "originalText": "AssignStatus",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[16].Caption",
+      "originalText": "Comments",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[17].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[18].Caption",
+      "originalText": "Component_HyperLinkUrl",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[19].Caption",
+      "originalText": "CreatedTime",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[20].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[21].Caption",
+      "originalText": "EntityId",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[22].Caption",
+      "originalText": "Equipment_HyperLinkUrl",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[23].Caption",
+      "originalText": "EquipmentId",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[24].Caption",
+      "originalText": "EscalatedTo",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[25].Caption",
+      "originalText": "FalsePositive",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[26].Caption",
+      "originalText": "FleetHealth_HyperLinkUrl",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[27].Caption",
+      "originalText": "FluidAnalysis_HyperLinkUrl",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[28].Caption",
+      "originalText": "FunctionalLocation",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[29].Caption",
+      "originalText": "HasWoWr",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[30].Caption",
+      "originalText": "Helpful",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[31].Caption",
+      "originalText": "Id",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[32].Caption",
+      "originalText": "KeyPerformanceIndicatorId",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[33].Caption",
+      "originalText": "ModelId",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[34].Caption",
+      "originalText": "PdMAlert_HyperLinkUrl",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[35].Caption",
+      "originalText": "ProcessId",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[36].Caption",
+      "originalText": "ResolvedBy",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[37].Caption",
+      "originalText": "ResolvedByFullName",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[38].Caption",
+      "originalText": "ResolvedByUsername",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[39].Caption",
+      "originalText": "ResolvedTime",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[40].Caption",
+      "originalText": "RuleId",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[41].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[42].Caption",
+      "originalText": "Status",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[43].Caption",
+      "originalText": "Title",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[44].Caption",
+      "originalText": "WorkOrderId",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[45].Caption",
+      "originalText": "WorkRequestId",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[53].Caption",
+      "originalText": "FleetType",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[54].Caption",
+      "originalText": "Level5FunctionalLocationId",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[55].Caption",
+      "originalText": "WorkCenter",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[56].Caption",
+      "originalText": "AlertHyperLinkURL",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[57].Caption",
+      "originalText": "NotificationURL",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[58].Caption",
+      "originalText": "ACF50RequiredEndDate",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[59].Caption",
+      "originalText": "ACF60ResolutionCategory",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[60].Caption",
+      "originalText": "ACF70ValueDerived",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[61].Caption",
+      "originalText": "ACF80DowntimeHours",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[62].Caption",
+      "originalText": "ACF90L5FunctionalLocation",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[63].Caption",
+      "originalText": "ACF100L7FunctionalLocation",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[64].Caption",
+      "originalText": "AnalysisDatetime",
+      "translatedText": ""
+    },
+    {
+      "id": "i1xhqg",
+      "component": "DataGrid",
+      "field": "column[65].Caption",
+      "originalText": "AssignedToUsername",
+      "translatedText": ""
+    },
+    {
+      "id": "iwtjhm",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Model - Open Alerts Grid View",
+      "translatedText": ""
+    },
+    {
+      "id": "i01vhh",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Site",
+      "translatedText": ""
+    },
+    {
+      "id": "i01vhh",
+      "component": "DataGrid",
+      "field": "column[1].Caption",
+      "originalText": "Work Center",
+      "translatedText": ""
+    },
+    {
+      "id": "i01vhh",
+      "component": "DataGrid",
+      "field": "column[2].Caption",
+      "originalText": "Alert Id",
+      "translatedText": ""
+    },
+    {
+      "id": "i01vhh",
+      "component": "DataGrid",
+      "field": "column[11].Caption",
+      "originalText": "Alert Type",
+      "translatedText": ""
+    },
+    {
+      "id": "i01vhh",
+      "component": "DataGrid",
+      "field": "column[17].Caption",
+      "originalText": "Equipment",
+      "translatedText": ""
+    },
+    {
+      "id": "i01vhh",
+      "component": "DataGrid",
+      "field": "column[21].Caption",
+      "originalText": "Component",
+      "translatedText": ""
+    },
+    {
+      "id": "i01vhh",
+      "component": "DataGrid",
+      "field": "column[24].Caption",
+      "originalText": "Headline",
+      "translatedText": ""
+    },
+    {
+      "id": "i01vhh",
+      "component": "DataGrid",
+      "field": "column[44].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    }
+  ]
+}

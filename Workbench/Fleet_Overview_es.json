@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "language": "es",
+    "languageName": "Spanish",
+    "version": "1.0",
+    "lastUpdated": "2025-11-18T21:48:50.020Z",
+    "appPageName": "Fleet Overview",
+    "totalTranslations": 52,
+    "completedTranslations": 0,
+    "pendingTranslations": 52,
+    "description": "Translation file for XMPro AppPage: Fleet Overview"
+  },
+  "translations": [
+    {
+      "id": "ijd8h",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Overview",
+      "translatedText": "Resumen"
+    },
+    {
+      "id": "iujwv",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Personal Inbox View",
+      "translatedText": "Vista de Bandeja Personal"
+    },
+    {
+      "id": "i8v1g",
+      "component": "Text",
+      "field": "text",
+      "originalText": ">",
+      "translatedText": ">"
+    },
+    {
+      "id": "ics0c",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Fleet Overview",
+      "translatedText": "Resumen de Flota"
+    },
+    {
+      "id": "im7y86",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Create Alert",
+      "translatedText": "Crear Alerta"
+    },
+    {
+      "id": "i6lj9u",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Oil Sampling",
+      "translatedText": "Muestreo de Aceite"
+    },
+    {
+      "id": "ijg0eb",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Fleet Health Dashboard",
+      "translatedText": "Tablero de Salud de Flota"
+    },
+    {
+      "id": "iuaf0o",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Compartment",
+      "translatedText": "Compartimiento"
+    },
+    {
+      "id": "ifs585",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Equipment",
+      "translatedText": "Equipo"
+    },
+    {
+      "id": "inptqp",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Fleet",
+      "translatedText": "Flota"
+    },
+    {
+      "id": "ilqlhz",
+      "component": "Button",
+      "field": "text",
+      "originalText": "Ecaluator Reports",
+      "translatedText": "Reportes de Evaluador"
+    },
+    {
+      "id": "iwmym8",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Fleet:",
+      "translatedText": "Flota:"
+    },
+    {
+      "id": "ixfgx",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Metrics for Last 30 Days",
+      "translatedText": "Métricas de los Últimos 30 Días"
+    },
+    {
+      "id": "i3jf5l",
+      "component": "Text",
+      "field": "text",
+      "originalText": "High Priority Alerts",
+      "translatedText": "Alertas de Alta Prioridad"
+    },
+    {
+      "id": "imfyge",
+      "component": "Text",
+      "field": "text",
+      "originalText": "1",
+      "translatedText": ""
+    },
+    {
+      "id": "iconkj",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+2",
+      "translatedText": ""
+    },
+    {
+      "id": "i3jf5l-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "New Alerts",
+      "translatedText": "Nuevas Alertas"
+    },
+    {
+      "id": "imfyge-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "8",
+      "translatedText": ""
+    },
+    {
+      "id": "iconkj-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+24",
+      "translatedText": ""
+    },
+    {
+      "id": "i3jf5l-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alerts with No WO",
+      "translatedText": "Alertas sin OT"
+    },
+    {
+      "id": "imfyge-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "12",
+      "translatedText": ""
+    },
+    {
+      "id": "iconkj-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+4",
+      "translatedText": ""
+    },
+    {
+      "id": "i3jf5l-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Alerts with Open WO",
+      "translatedText": "Alertas con OT Abierta"
+    },
+    {
+      "id": "imfyge-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "17",
+      "translatedText": ""
+    },
+    {
+      "id": "iconkj-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+4",
+      "translatedText": ""
+    },
+    {
+      "id": "i3jf5l-5",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. Alert to WR",
+      "translatedText": "Prom. Alerta a SR"
+    },
+    {
+      "id": "igiva5",
+      "component": "Text",
+      "field": "text",
+      "originalText": "23:00",
+      "translatedText": ""
+    },
+    {
+      "id": "ippclv",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": ""
+    },
+    {
+      "id": "iconkj-5",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+24",
+      "translatedText": ""
+    },
+    {
+      "id": "i3jf5l-5-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. WR to WO",
+      "translatedText": ""
+    },
+    {
+      "id": "igiva5-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "42:03",
+      "translatedText": ""
+    },
+    {
+      "id": "ippclv-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": ""
+    },
+    {
+      "id": "iconkj-5-2",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+13",
+      "translatedText": ""
+    },
+    {
+      "id": "i3jf5l-5-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. WO to COmplete",
+      "translatedText": ""
+    },
+    {
+      "id": "igiva5-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "38:59",
+      "translatedText": ""
+    },
+    {
+      "id": "ippclv-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": ""
+    },
+    {
+      "id": "iconkj-5-3",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+4",
+      "translatedText": ""
+    },
+    {
+      "id": "i3jf5l-5-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "Avg. Alert Closure Time",
+      "translatedText": ""
+    },
+    {
+      "id": "igiva5-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "56:30",
+      "translatedText": ""
+    },
+    {
+      "id": "ippclv-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "hrs",
+      "translatedText": ""
+    },
+    {
+      "id": "iconkj-5-4",
+      "component": "Text",
+      "field": "text",
+      "originalText": "+24",
+      "translatedText": ""
+    },
+    {
+      "id": "ikdak",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Top 5 Equipment Alerts Generated",
+      "translatedText": ""
+    },
+    {
+      "id": "imu6fc",
+      "component": "Text",
+      "field": "text",
+      "originalText": "EQUIPMENT",
+      "translatedText": ""
+    },
+    {
+      "id": "infg1q",
+      "component": "Text",
+      "field": "text",
+      "originalText": "1 DAY",
+      "translatedText": ""
+    },
+    {
+      "id": "ik16m5",
+      "component": "Text",
+      "field": "text",
+      "originalText": "7 DAYS",
+      "translatedText": ""
+    },
+    {
+      "id": "iw6xw1",
+      "component": "Text",
+      "field": "text",
+      "originalText": "30 DAYS",
+      "translatedText": ""
+    },
+    {
+      "id": "il2rh",
+      "component": "Heading",
+      "field": "text",
+      "originalText": "Fleet - Open Alerts Grid View",
+      "translatedText": ""
+    },
+    {
+      "id": "in7x2",
+      "component": "DataGrid",
+      "field": "column[0].Caption",
+      "originalText": "Alert ID",
+      "translatedText": ""
+    },
+    {
+      "id": "in7x2",
+      "component": "DataGrid",
+      "field": "column[12].Caption",
+      "originalText": "Equipment",
+      "translatedText": ""
+    },
+    {
+      "id": "in7x2",
+      "component": "DataGrid",
+      "field": "column[17].Caption",
+      "originalText": "Compartment",
+      "translatedText": ""
+    },
+    {
+      "id": "in7x2",
+      "component": "DataGrid",
+      "field": "column[20].Caption",
+      "originalText": "Description",
+      "translatedText": ""
+    },
+    {
+      "id": "in7x2",
+      "component": "DataGrid",
+      "field": "column[45].Caption",
+      "originalText": "SAP Notification",
+      "translatedText": ""
+    }
+  ]
+}
